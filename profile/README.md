@@ -1,4 +1,4 @@
-# 👨‍💻 Teo & Gabriel — Code, Collaboration & Innovation  
+# Téo & Gabriel — Code, Collaboration & Innovation  
 
 Hello and welcome! 👋  
 
