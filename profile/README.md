@@ -2,7 +2,7 @@
 
 Hello and welcome! 👋  
 
-We are **Teo Villet** and **Gabriel Halus**, two passionate developers, housemates, and tech enthusiasts who love building innovative projects—sometimes for fun, sometimes with a purpose.  
+We are **Téo Villet** and **Gabriel Halus**, two passionate developers, housemates, and tech enthusiasts who love building innovative projects—sometimes for fun, sometimes with a purpose.  
 
 ## What Drives Us  
 - 🎯 Tackling complex technical challenges  
@@ -24,7 +24,7 @@ And doing it together? That’s where the real magic happens.
 ## Let’s Connect  
 📬 **Feel free to reach out or explore our work!**  
 
-- [Teo on GitHub](https://github.com/teovlt)  
+- [Téo on GitHub](https://github.com/teovlt)  
 - [Gabriel on GitHub](https://github.com/gabrielhalus)  
 
 ---
