@@ -1,33 +1,32 @@
-# 👨‍💻👨‍💻 Teo & Gabriel — Code, coloc & café  
+# 👨‍💻 Teo & Gabriel — Code, Collaboration & Innovation  
 
-Salut à toi qui passes par ici ! 👋  
+Hello and welcome! 👋  
 
-Nous, c’est **Teo Villet** et **Gabriel Halus**, deux développeurs passionnés, colocataires et toujours prêts à bricoler des projets un peu fous (et parfois utiles 😄).  
+We are **Teo Villet** and **Gabriel Halus**, two passionate developers, housemates, and tech enthusiasts who love building innovative projects—sometimes for fun, sometimes with a purpose.  
 
-## Ce qu’on aime  
-- 🎯 Relever des challenges techniques  
-- ☕ Discuter code autour d’un café (ou d’une bière 🍻)  
-- 🛠️ Apprendre et tester de nouvelles technos  
-- 💡 Partir d’une idée simple et la transformer en projet concret  
+## What Drives Us  
+- 🎯 Tackling complex technical challenges  
+- ☕ Engaging discussions over coffee (or a well-deserved beer 🍻)  
+- 🛠️ Exploring and experimenting with new technologies  
+- 💡 Transforming simple ideas into fully realized projects  
 
-## Ce qu’on fait  
-- Des projets web, des API, des outils persos  
-- Des trucs funs juste pour s’amuser  
-- Parfois des projets plus sérieux (promis !)  
+## What We Do  
+- Web applications, APIs, and personal development tools  
+- Creative and experimental projects  
+- Serious, production-grade solutions when the need arises  
 
-## Pourquoi ?  
-Parce que coder, c’est cool.  
-Coder à deux, c’est encore mieux.  
-Et coder en coloc… c’est carrément notre mode de vie.  
-
----
-
-## Viens nous dire bonjour  
-📬 **Contacte-nous ou suis nos projets !**  
-
-- [Teo sur GitHub](https://github.com/teovlt)  
-- [Gabriel sur GitHub](https://github.com/gabrielhalus)  
+## Why?  
+Because we believe coding is more than just a skill—it’s a way of thinking, creating, and solving real-world problems.  
+And doing it together? That’s where the real magic happens.  
 
 ---
 
-**À bientôt, et bon code à toi !** 🚀
+## Let’s Connect  
+📬 **Feel free to reach out or explore our work!**  
+
+- [Teo on GitHub](https://github.com/teovlt)  
+- [Gabriel on GitHub](https://github.com/gabrielhalus)  
+
+---
+
+**Looking forward to building great things—let’s connect!** 🚀
